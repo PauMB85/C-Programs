@@ -1,5 +1,6 @@
 //
 //  VariableEntorno
+//  Se trata de un programa sencillo para familiarizarse con las variables de entorno
 //
 //  Created by PauMB on 20/04/14.
 //  Company: HedaSoft
